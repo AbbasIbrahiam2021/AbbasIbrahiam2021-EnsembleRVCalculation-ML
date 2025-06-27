@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 You'll need:
-- An Alpha Vantage API key (set it as `Finnhub_KEY` in your environment)
+- An Alpha Vantage API key (set it as `Finnhub_API_KEY` in your environment)
 
 ## Under the Bonnet
 
