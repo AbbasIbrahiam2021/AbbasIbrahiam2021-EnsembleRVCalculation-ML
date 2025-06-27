@@ -20,7 +20,7 @@ We've built this tool to combine several volatility measures into one robust ind
 
 ### Market Data Sources
 - **SPX**: The S&P 500 Index (our main market benchmark)
-- **VIX**: The CBOE Volatility Index (the market's "fear gauge")
+- **VIX**: The CBOE Volatility Index (commonly described the market's "fear gauge" but actually nothing of the sort)
 
 We fetch this data through Alpha Vantage's API, with built-in rate limiting and local caching to keep things running smoothly.
 
